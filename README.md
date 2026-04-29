@@ -1,3 +1,3 @@
 # About ginger147
-Hi folks
+Hi folks!
 I'm a new genius developer
